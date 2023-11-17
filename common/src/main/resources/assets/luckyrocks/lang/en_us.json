@@ -1,4 +1,11 @@
 {
   "itemGroup.luckyrocks.luckyrocks": "Lucky rocks",
-  "item.luckyrocks.lucky_rock": "Lucky rock"
+  "item.luckyrocks.lucky_rock": "Lucky rock",
+  "item.luckyrocks.speed_rock": "Speed rock",
+  "item.luckyrocks.jump_rock": "Jump rock",
+  "item.luckyrocks.haste_rock": "Haste rock",
+  "item.luckyrocks.strength_rock": "Strength rock",
+  "item.luckyrocks.night_vision_rock": "Night vision rock",
+  "item.luckyrocks.regeneration_rock": "Regeneration rock",
+  "item.luckyrocks.slow_falling_rock": "Slow falling rock"
 }
