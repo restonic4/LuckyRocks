@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "luckyrocks",
+  "version": "${version}",
+
+  "name": "LuckyRocks",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.restonic4.luckyrocks.fabric.LuckyRocksFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "=1.20"
+  }
+}
